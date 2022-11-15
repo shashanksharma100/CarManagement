@@ -1,0 +1,11 @@
+insert into customer values
+('7245364099','TanmayWankhede','CZ1034','wankhede_tanmay@gmail.com','23 Trimurti Nagar'),
+('7364526272','ShubhamKumar','AZ1022','kumar_shubham@yahoo.in','3 Pratap Nagar'),
+('8243546578','ShashankSharma','BQ2024','sharma_shashank@gmail.com','54 Ayodhya Nagar'),
+('7666610759','SanjanaJalgaonkar','BL1999','jalgaonkar_sanjana@gmail.com','16 Trimurti Nagar'),
+('8362534272','ShrushtiRajanhire','MK7843','rajanhire_shrushti@reddit.com','3 Pratap Nagar'),
+('9263536282','ShashankKumar','DF5637','kumar_shashank@gmail.com','48 Pratap Nagar'),
+('8235362727','PriyalChopde','DR2345','chopde_priyal@yahoo.in','90 Trimurti Nagar'),
+('8732782927','AnushkaVishwakarma','NJ26373','vishwakarma_anushka@reddit.com','88 Laxmi Nagar'),
+('9263562728','JaanhaviGautam','YU7688','gautam_jaanhavi@yahoo.in','22 Laxmi Nagar'),
+('9474566363','AishwaryaPatle','HU7611','patle_aishwarya@gmail.com','6 Ayodhya Nagar')

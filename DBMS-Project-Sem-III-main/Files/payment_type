@@ -1,0 +1,5 @@
+create table payment_type
+(
+payment_no int primary key,
+payment_type char(6)
+);

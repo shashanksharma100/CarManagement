@@ -1,0 +1,6 @@
+create table Car_owner
+(
+Contact_no BIGINT ,
+name   char(30) ,
+id varchar(100) 
+);

@@ -1,0 +1,11 @@
+insert into user_info values
+('TrimurtiNagar','8373827772','yadav_rahul@gmail.com','AM6473','Rahul'),
+('ChatrapatiNagar','8398272766','mehra_mayur@yahoo.com','HK3638','Mayuri'),
+('TrimurtiNagar','8363535578','mishra_sakski@gmail.com','HY3736','Sakshi'),
+('AyodhyaNagar','7253566662','patole_anikita@gmail.com','JI8272','Ankita'),
+('SwalambiNagar','8526267777','dhakaate_rajshri@hotmail.com','UY3627','Rajshri'),
+('LaxmiNagar','8463625610','verma_rohit@gmail.com','IL3738','Rohit'),
+('AyodhyaNagar','837362626','bhoyar_prem@gmail.com','HU7363','Prem'),
+('LaxmiNagar','738272622','dharake_ankit@gmail.com','JY8675','Ankit'),
+('SwalambiNagar','847566632','wagh_mayur@yahoo.in','HW7363','Mayur'),
+('ChatrpatiNagar','735353572','malik_shital@gmail.com','JJ2722','Shital')

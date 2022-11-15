@@ -1,0 +1,11 @@
+insert into Car_owner values
+('7245364099','TanmayWankhede','CZ1034'),
+('7364526272','Shubham Kumar','AZ1022'),
+('8243546578','Shashank Sharma','BQ2024'),
+('7736628882','Tejal Tambe','BL1989'),
+('8635356366','Ankita Kumar','WK4648'),
+('9263536282','Shashank Kumar','DF5637'),
+('8235362727','Priyal Chopde','DR2345'),
+('8732782927','Anushka Vishwakarma','JI6473'),
+('9646738827','Sanya Mathur','FG7383'),
+('9474566363','Aishwarya Patle','HU7611')

@@ -1,0 +1,11 @@
+insert into Car_model values
+('CM4647','1999','Audi'),
+('CM3536','1999','Honda'),
+('CM3636','2000','sharan'),
+('CM6573','2020','polo'),
+('CM4637','2018','Jeep volkswagen'),
+('CM9546','2017','duster'),
+('CM3674','1999','Car'),
+('CM7743','2006','santana'),
+('CM4372','2009','prius'),
+('CM3547','2010','hilux')

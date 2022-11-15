@@ -1,0 +1,11 @@
+select * from customer;
+
+select * from Car_owner;
+
+select * from Car_Model;
+
+select * from User_info;
+
+select * from Payment_type;
+
+select * from Payment;

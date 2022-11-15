@@ -1,0 +1,8 @@
+create table user_info
+(
+ui_address varchar ,
+mobile_no int ,
+email varchar,
+ui_id varchar,
+ui_name char
+);

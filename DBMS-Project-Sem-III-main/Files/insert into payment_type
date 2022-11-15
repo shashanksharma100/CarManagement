@@ -1,0 +1,4 @@
+insert into payment_type values
+(1,'Card'),
+(2,'Cash'),
+(3,'Cheque')

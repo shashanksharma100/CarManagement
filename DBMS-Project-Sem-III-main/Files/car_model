@@ -1,0 +1,6 @@
+create table Car_model
+(
+cm_number varchar ,
+cm_year int ,
+cm_type char(50)
+);

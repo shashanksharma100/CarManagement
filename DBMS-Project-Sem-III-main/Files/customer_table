@@ -1,0 +1,9 @@
+create table Customer
+(
+Mobile_no BIGINT ,
+name   char(30) ,
+id varchar(100) ,
+email varchar(100),
+Address  varchar(50),
+Primary key(id)
+);

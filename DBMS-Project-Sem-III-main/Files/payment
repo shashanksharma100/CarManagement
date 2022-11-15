@@ -1,0 +1,7 @@
+Create table payment
+(
+Offer varchar,
+Amount int,
+Method int,
+Foreign key (Method)references payment_type
+);
